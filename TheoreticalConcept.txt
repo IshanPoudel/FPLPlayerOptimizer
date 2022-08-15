@@ -1,0 +1,13 @@
+How the progrm works.
+
+We are trying to find a way to optimize the goalkeeping selection problem.
+
+The first way is to find a way to model the problem.
+The second is to pass that model to a solver which can solve the problem .
+The third  is a way  to visualize the answer so that it is useful for viewers.
+
+MODELING PACKAGES:
+Come in different packages
+
+Optimization Solver:
+Open Source - CBC
